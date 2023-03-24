@@ -1,3 +1,5 @@
+> **Warning**: GitHub Actions Importer is now [generally available](gh.io/actions-importer-ga). Please use the Issue Ops template repository located in [actions/importer-issue-ops](https://github.com/actions/importer-issue-ops) moving forward. 🎉
+
 # Valet Issue Ops
 
 The Valet IssueOps template repository provides the functionality necessary to run Valet commands through GitHub Actions and Issues, allowing you to migrate your CI/CD workflows without needing to install software on your local machine. This approach is especially useful for organizations that want to enable self-service migrations to GitHub Actions.
